@@ -1,6 +1,6 @@
-## Busania Trading Management Brand Identity
+# Busania Trading Management Brand Identity
 
-### Logo
+## Logo
 ![BTM_Final_Logo-01.jpg](BTM_Final_Logo.png)
 <p align = "justify">
 Busania Trading Management (BTM) features a straightforward logo design. The emblem comprises three candles progressively ascending, with the green color intensifying, symbolizing the continuous improvement of investments with BTM's support. This primary logo serves as the focal point for major brand promotions, ensuring consistent and easily recognizable branding across diverse platforms. It is imperative to adhere to the provided branding guide before deploying the logo.
@@ -12,7 +12,7 @@ For situations with limited space or specific design requirements, BTM's seconda
 Furthermore, BTM's secondary badge can serve as an alternative to the primary logo but should never be placed in direct proximity. Avoid deploying the secondary badge alongside the primary logo, particularly in banner logos, as this may appear repetitive and compromise the brand's representation. Always consider the guidelines outlined in the branding guide when incorporating BTM's logos into various contexts.
 </p>
 
-### Mood Board
+## Mood Board
 <p align = "justify">
 • Sustainability
   
@@ -30,13 +30,13 @@ The logo is intricately crafted to evoke a perception of premium service, reinfo
 Adherence to the guidelines delineated in the logo guide is imperative to ensure a cohesive and harmonized utilization of the logo across the company's diverse platforms. Consistent application of these principles will contribute to a unified visual identity, reinforcing the brand's presence and impact.
 </p>
 
-### Color Usage
+## Color Usage
 ![ColorUsage](BTM_Logo_Guide3-04.jpg)
 
-### Typography
+## Typography
 ![Typography](BTM_Logo_Guide4-05.jpg)
 
-### Project Summary
+## Project Summary
 <p align = "justify">
 The project involved the creation of a brand identity for Busania Trading Management (BTM), a startup specializing in trading assistance and wealth management. The primary logo features three ascending candles, symbolizing continuous improvement and financial growth with BTM. Emphasizing sustainability, financial freedom, and assurance, the logo reflects the company's mission to ensure financial stability for its clients.
 </p>
